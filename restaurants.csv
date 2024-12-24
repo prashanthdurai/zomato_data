@@ -1,0 +1,110 @@
+restaurant_id,name,cuisine_type,location,owner_name,average_delivery_time,contact_number,rating,total_orders,is_active
+101,Balasubramanian-Srinivas,French,"65, Sachdev Circle
+Saharsa 947477",Nandini Dalal,84,4416979204,1,32,True
+102,"Loyal, Rai and Mani",Chinese,"76
+Gola Path
+Gandhinagar 367270",Zarna Malhotra,112,+915680774312,1,35,False
+103,Chaudhari-Parikh,Italian,"H.No. 00, Chatterjee Marg
+Vasai-Virar-700115",Kai Mann,85,01615488376,4,42,True
+104,"Madan, Iyer and Dutt",American,"36/544
+Dani Chowk, Bhiwani-227047",Shivansh Bora,92,06934654271,5,44,True
+105,Ray and Sons,Thai,"H.No. 84, Kanda Zila
+Gangtok-698065",Kashish Vora,81,4763260051,3,5,False
+106,Chadha-Narayan,Indian,"83/70
+Mukherjee Marg, Karawal Nagar-199651",Dayamai Dua,99,+919134322164,2,31,False
+107,"Sehgal, Sampath and Bora",Japanese,"21/63
+Bhagat Road
+Jammu-314440",Gavin Chana,44,+912659473564,4,9,False
+108,"Vasa, Choudhury and Venkatesh",Indian,"H.No. 107
+Hayer Chowk
+Kishanganj 978124",Victor Guha,49,03035455067,5,26,False
+109,"Panchal, Agarwal and Sem",Italian,"015, Pant Road
+Kottayam-362823",Nathan Prakash,58,2081388391,5,10,True
+110,"Roy, Suresh and Pau",Chinese,"H.No. 30
+Prasad
+Bellary-156172",Tara Sharaf,45,1718364470,1,39,True
+111,"Gade, Saraf and Chhabra",Chinese,"H.No. 72
+Narain Nagar
+Noida-867928",Indira Deep,47,08244485130,3,42,False
+112,Baral-Mishra,Thai,"73/014
+Jani Marg
+Dindigul 477127",Zinal Lalla,92,+919929745615,1,29,False
+113,"Bera, Naidu and Misra",Chinese,"43/26
+Rama Ganj
+Thoothukudi 924043",Kamala Sagar,43,4224497329,4,35,False
+114,Dugar and Sons,Italian,"H.No. 92
+Gole Marg
+Ludhiana-848291",Megha Chahal,43,+916783304667,2,15,True
+115,Anand LLC,Japanese,"642, Swamy Ganj
+Chittoor 200499",Urvi Gaba,82,+915861713490,4,39,True
+116,Mann-Dada,Italian,"02
+Anne Street, Gangtok 907788",Rajata Balasubramanian,56,08397134947,0,16,False
+117,"Kannan, Taneja and Kalla",Japanese,"81/14
+Anne Road, Ongole-836112",Priya Issac,53,07575222060,5,18,False
+118,Palan-Singh,American,"H.No. 04, Mander Zila, Kolhapur-715728",Gaurang Sandal,58,+916655309435,5,20,True
+119,Krishnan and Sons,Thai,"51, Nair
+Rajpur Sonarpur 505911",Irya Sur,48,9039176021,2,23,False
+120,Lad LLC,Chinese,"38, Minhas Chowk, Faridabad 048438",Peter Savant,67,05218965324,1,32,True
+121,"Agarwal, Swamy and Dugar",Italian,"H.No. 68, Bahl Road
+Rewa 462502",Mitali Kuruvilla,102,4099719609,0,17,False
+122,Lall-Dhawan,American,"78/609
+Hari Nagar, Rewa-356208",Kai Purohit,107,09856003233,2,15,True
+123,"Saha, Dhingra and Acharya",Italian,"04/548
+Kata Path
+Suryapet 428774",Advay Bansal,106,09933638225,4,27,False
+124,Keer-Naik,Japanese,"12
+Swamy, Bellary-632547",Chandresh Sethi,82,+915612978018,3,8,True
+125,Boase-Memon,French,"96/789, Iyengar Circle, Gopalpur-272292",Laban Warrior,101,+916293811197,4,24,True
+126,Mander Ltd,Chinese,"124, Buch Street, Karnal 753027",Lekha Venkatesh,74,04281195451,1,31,False
+127,Bawa-Venkatesh,Japanese,"540, Pall Path
+Madurai-466520",Neel Bhalla,98,+917481780787,4,36,True
+128,Dhaliwal Ltd,Chinese,"45/18, Mohanty Marg
+Ambarnath-633338",Oeshi Oak,93,+913390736599,5,5,False
+129,Bhagat Ltd,Italian,"H.No. 467
+Vyas Marg
+Bhalswa Jahangir Pur-761752",Udant Gulati,81,9491195694,5,14,True
+130,"Dara, Lall and Sheth",French,"H.No. 11, Kohli Street
+Srinagar 257434",Meera Sani,56,+916468377279,4,28,True
+131,Sengupta-Behl,American,"H.No. 026, Chakraborty Zila, Begusarai 107420",Logan Buch,93,2914141867,3,14,False
+132,"Kibe, Sodhi and Sama",French,"15
+Dhar Zila, Pune-923246",Rayaan Iyengar,66,8299965160,2,8,False
+133,Wable and Sons,Mexican,"523, Garde Marg, Aizawl-132100",Isaac Radhakrishnan,65,02542410112,1,33,True
+134,Thaman Inc,Thai,"79, Bhasin Street
+Ramgarh 096722",Ira Chacko,94,5337162193,4,36,True
+135,Karan LLC,Italian,"H.No. 85
+Gokhale Circle, Kota-996502",Falan Randhawa,114,06270190598,3,46,False
+136,"Sharma, Morar and Dey",Japanese,"16/470
+Bhat, Dhanbad-930801",Megha Rao,85,0376595355,3,19,False
+137,"Brahmbhatt, Grover and Wali",Japanese,"H.No. 795, Korpal Road, Bidar-191110",Bahadurjit Bhagat,59,8604524152,3,48,True
+138,Dora-Mand,Italian,"H.No. 038
+Rastogi Street
+Hindupur 953718",Suhani Kannan,91,+913739093745,3,16,False
+139,Mohanty-Gole,Mexican,"464
+Khalsa Street, Tirunelveli-323411",Vedika Sharma,92,7666558617,1,26,True
+140,Banik Ltd,Chinese,"H.No. 18
+Issac, Rajpur Sonarpur-052069",Tarak Arora,115,09797771294,5,11,True
+141,Virk-Sagar,Mexican,"H.No. 22, Krishnamurthy Zila, Miryalaguda-478186",Yutika Sampath,53,+919867292146,4,11,False
+142,Mangal-Ratti,Mexican,"958, Mody Circle, Nadiad-487107",Siya Jhaveri,74,+919652488696,1,13,False
+143,Chakrabarti-Bhattacharyya,Italian,"55/46
+Karan Nagar
+Allahabad 616832",Balveer Goel,46,2347587955,1,12,False
+144,Mohan Ltd,Mexican,"12/848
+Mistry Path
+Kottayam 125666",Chavvi Dugal,75,+919855117351,5,45,False
+145,Sinha-Varghese,Indian,"992
+Sandal Circle
+Pimpri-Chinchwad-238255",Ronith Anne,72,09047195861,0,42,True
+146,"Taneja, Chatterjee and Bhandari",American,"05
+Agarwal Nagar
+Saharsa 308942",Liam Krishnan,68,5443278795,5,29,False
+147,Kala-Karpe,Thai,"95/70
+Varkey Path
+Etawah-859933",Jagvi Srinivas,47,+912061667154,4,19,True
+148,"Tara, Sagar and Koshy",Mexican,"H.No. 189
+Sidhu Nagar
+Gaya 430175",Chaitanya Kala,95,+915956725596,5,19,True
+149,"Banik, Rana and Goyal",Thai,"783, Salvi Path
+Aurangabad-623097",Dhriti Bandi,115,+911580156507,3,18,False
+150,"Padmanabhan, Palla and Dada",Chinese,"H.No. 452
+Rattan Nagar
+Kumbakonam 741537",Wridesh Master,112,07059042614,1,26,False

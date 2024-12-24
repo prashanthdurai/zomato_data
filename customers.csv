@@ -1,0 +1,196 @@
+customer_id,name,location,phone,email,signup_date,is_premium,preferred_cuisine,total_orders,average_rating
+1,Xiti Oommen,"79/06
+Tella Chowk, Chapra-882609",03811106686,shettyyashodhara@example.org,2024-10-24,False,Italian,3,5
+2,Farhan Swaminathan,"153, Mahajan Zila
+Kurnool-808390",+917112537055,lukechawla@example.org,2024-03-21,False,Mexican,6,2
+3,Faqid Dyal,"664
+Dutta Ganj
+Tadepalligudem 820291",08424971040,qdass@example.org,2024-01-25,False,American,9,5
+4,Saumya Patil,"667, Saini Chowk
+Mumbai 919975",+914539361529,ekajakunda@example.net,2024-03-26,False,American,11,2
+5,Anika Patil,"73/619
+Swaminathan Street, Bokaro 246219",+913263018409,calebwali@example.net,2024-11-06,True,Japanese,4,1
+6,Vasana Tank,"19/60, Dhingra Road, Gwalior 733990",01399525211,maanastalwar@example.org,2024-05-24,False,Indian,5,5
+7,Fariq Mody,"03
+Brar Ganj
+Panvel 226830",00968912273,oshasani@example.org,2024-10-06,False,Japanese,10,5
+8,Varenya Ghose,"308, Ganguly Ganj, Dhanbad-072919",4148415258,battadominic@example.org,2024-03-28,False,Thai,8,2
+9,Udant Raj,"H.No. 74
+Munshi Marg
+Morbi 030104",+911976722239,patelbenjamin@example.org,2024-08-06,True,Japanese,1,5
+10,Ranbir Comar,"H.No. 65, Mitra
+Sambhal-563249",+915019668601,libni96@example.net,2024-05-25,False,American,11,3
+11,Joshua Badami,"H.No. 784, Nadig Circle
+Varanasi 471248",+919032889204,harrison65@example.org,2024-02-06,True,Indian,0,1
+12,Rachit Nair,"H.No. 128, Pall Path
+Tezpur 366469",05252727823,maxpuri@example.net,2024-06-12,True,French,11,4
+13,Aarna Karan,"78, Sem Ganj
+Patna 902044",1588680739,falakbasak@example.org,2024-06-01,True,Japanese,10,4
+14,Vedant Narain,"330, Dixit Path
+Korba-032923",1958582879,labanmangat@example.com,2024-08-31,True,Indian,5,4
+15,Warhi Kumar,"546, Varkey Marg, Ghaziabad 129831",+911564646710,vedasarkar@example.net,2024-08-19,False,Indian,3,1
+16,Udyati Padmanabhan,"79/383, Dasgupta Zila, Ballia-998964",8366085461,tanaypall@example.com,2024-02-28,False,Thai,8,3
+17,Pratyush Wali,"37
+Merchant Zila
+Ambattur 570428",+912354368502,ipathak@example.org,2024-10-10,False,American,4,3
+18,Daksh Halder,"79
+Khanna Circle, Gandhinagar 693712",1622960823,chaudryanusha@example.com,2024-08-12,True,Indian,10,3
+19,Siya Vig,"H.No. 21
+Madan Circle, Patna-503599",+913210706857,yadavi47@example.net,2024-06-01,True,Italian,11,1
+20,Isaac Srinivas,"042
+Ganesh Ganj
+Jalandhar 868242",+914459963466,vedaray@example.net,2024-11-12,True,American,1,3
+21,Siya Goyal,"96/93
+Chakrabarti
+Erode-435724",05107456678,bavayauvani@example.net,2024-06-22,True,French,0,5
+22,Manbir Pingle,"96/06
+Sharma Road, Kakinada-185420",03119858795,girish60@example.com,2024-11-02,False,Italian,1,4
+23,Liam Goyal,"56, Dass Nagar
+Bhilai-888418",4289624307,gabaleena@example.net,2024-01-05,True,Mexican,11,3
+24,Amol Ray,"H.No. 728
+Rajagopalan Ganj
+Kota 048051",6858543096,pthaman@example.org,2024-07-02,True,Italian,4,5
+25,Imaran Gala,"38, Swamy Path, Panvel 187823",+913618105982,murtyamara@example.org,2024-07-26,True,Thai,7,5
+26,Warhi Goel,"30/651, Kamdar Nagar, Tumkur-030219",08533255387,yuvraj68@example.org,2024-09-26,True,American,0,4
+27,Sanya Rajan,"92/778, Master Road, Ghaziabad-416598",+915712984242,vedika05@example.net,2024-02-19,True,American,1,2
+28,Gavin Rattan,"29/045, Lala Ganj
+Varanasi 085002",9683859377,ysengupta@example.net,2024-07-11,True,Indian,0,1
+29,Yoshita Bali,"90/35, Viswanathan Road, Rewa-310095",+917106323733,atharv30@example.com,2024-10-30,True,Chinese,5,3
+30,Akshay Prakash,"H.No. 00, Mistry Road, Muzaffarnagar-714260",02182365750,lnath@example.com,2024-07-14,True,American,1,3
+31,Madhavi Varty,"H.No. 93
+Sehgal Zila, Panchkula-501736",04456721654,padmanabhansai@example.com,2024-10-20,True,Thai,4,3
+32,Triveni Kurian,"29/22, Dalal Road
+Darbhanga 543948",+914667339119,sameshbumb@example.org,2024-09-27,True,American,9,1
+33,Nilima Keer,"H.No. 460
+Minhas, Kavali 909062",04122405637,sathvikiyer@example.org,2024-03-13,False,Japanese,5,1
+34,Laksh Wable,"H.No. 83, Chaudhuri Path
+Navi Mumbai 750674",+917770534416,harishchaudhary@example.org,2024-03-15,True,Japanese,2,2
+35,Vasudha Mangat,"942, D’Alia Street
+Dewas 419020",02658659416,wkeer@example.net,2024-04-13,False,Mexican,2,5
+36,Ekaraj Ray,"15/482
+Parmar Ganj
+Bhusawal 574158",07176876969,waidapuri@example.com,2024-09-28,False,Chinese,9,3
+37,Kalpit Jha,"42/117, Thaman Circle, Surat-255418",06151753545,dugardipta@example.org,2024-11-11,True,Thai,8,5
+38,Fitan Sankar,"H.No. 29, Deshpande Circle
+Guwahati 049262",6152579126,lipikabhatnagar@example.com,2024-03-16,False,Mexican,6,3
+39,Pranav Natarajan,"51/935, Suresh Marg, Sikar 314781",0914926128,nazarethvrishti@example.org,2024-03-25,True,Thai,6,5
+40,Chaitanya Gulati,"066
+Rastogi Nagar, Chennai-047855",08557880354,patilaadhya@example.net,2024-04-27,True,American,8,3
+41,Frederick Khurana,"091, Shukla Chowk, Bellary-176674",8822247831,ygupta@example.org,2024-06-24,False,Italian,7,3
+42,Hritik Dalal,"H.No. 894
+Soni Chowk, Moradabad-339032",+911343632822,gavin31@example.org,2024-01-11,True,Chinese,10,3
+43,Ayushman Bath,"05/86
+Sagar
+Secunderabad-084846",+919723698766,shadayamai@example.net,2024-05-26,True,French,11,1
+44,Simon Aggarwal,"15
+Bal Circle, Karawal Nagar 060032",02960413477,esachdev@example.com,2024-02-17,False,American,7,3
+45,Ekaraj Mistry,"H.No. 646, Solanki Circle, Kadapa-352274",+915000422428,baljiwan17@example.com,2024-01-26,True,Indian,4,3
+46,Jalsa Sandal,"600, Aggarwal Street
+Arrah 282869",+916739898100,lakshitbir@example.org,2024-04-09,False,Japanese,9,4
+47,Widisha Ahluwalia,"63
+Kota Marg
+South Dumdum-905400",09404333094,zashildhar@example.com,2024-08-23,False,Italian,5,2
+48,Yashasvi Bhasin,"95/161, Mahajan Road
+Karawal Nagar-662740",4900359730,borayamini@example.net,2024-10-11,False,Chinese,6,3
+49,Udant Kuruvilla,"H.No. 372
+Jha Marg
+Chandigarh 907008",04107042005,dhritishah@example.net,2024-05-11,False,Mexican,2,1
+50,Deepa Barad,"36, Lala Chowk, Tenali 576364",6809063945,ramfalan@example.org,2024-01-03,False,Italian,10,4
+51,Amaira Saini,"H.No. 67, Mannan Marg
+Srikakulam-144992",03404979843,anmolchad@example.org,2024-07-01,True,Indian,1,5
+52,Rehaan Date,"H.No. 249, Kumar Zila
+Morbi 227575",6525952156,godanidhi@example.com,2024-06-25,True,French,2,1
+53,Ria Sampath,"92, Pradhan Street, Ozhukarai-892562",2463691203,gauridate@example.org,2024-09-30,True,Mexican,8,3
+54,Naveen Bobal,"H.No. 924
+Barad Zila
+Amaravati-542035",+911126708248,uppalkalpit@example.net,2024-12-19,True,American,6,1
+55,Vedant Lalla,"76/53
+Dhawan Marg, Kirari Suleman Nagar 160500",+919124402631,karatanay@example.org,2024-04-16,True,Italian,0,3
+56,Nilima Batra,"626, Natt Zila
+Bokaro 659478",02323278537,jhalak85@example.net,2024-07-24,True,Italian,0,4
+57,Chaaya Sen,"H.No. 91, Dayal Chowk
+Ramgarh 167798",7550217963,luke75@example.com,2024-12-20,False,Mexican,10,5
+58,Vidhi Nanda,"368, Goswami Street
+Nadiad-370125",5905360546,vrinda09@example.com,2024-07-13,False,Japanese,8,5
+59,Liam Warrior,"61/44, Konda Road, Madanapalle 619622",05681680788,karan53@example.org,2024-10-07,True,Chinese,2,3
+60,Gavin Oommen,"H.No. 25, Deshmukh Chowk
+Siliguri-346710",+911847286976,ysheth@example.net,2024-11-05,False,Mexican,6,2
+61,Pahal Gupta,"78
+Sarin
+Kochi-156447",+916544812903,egupta@example.com,2024-07-11,False,Indian,7,2
+62,Faras Nath,"17, Mukherjee Ganj, Ahmedabad-099886",+916813505199,suleyashodhara@example.com,2024-09-10,True,Italian,1,5
+63,Udyati De,"H.No. 798
+Patla Ganj, Kochi-169842",06923011685,joshuaoza@example.net,2024-09-18,True,Italian,11,4
+64,Warinder Ratta,"H.No. 25
+Peri Street
+Gangtok 015330",+914922366319,vincenthayer@example.net,2024-10-07,False,Mexican,6,2
+65,Harsh Menon,"H.No. 470, Apte
+Saharanpur-977551",9371703733,bkant@example.net,2024-04-16,True,Chinese,2,4
+66,Baghyawati Sunder,"H.No. 25, Bala Road, Serampore-712467",7994314293,masonkarnik@example.net,2024-07-05,False,Italian,6,4
+67,Widisha Tata,"981, Mody Circle, Uluberia-458788",08244288202,hchada@example.org,2024-08-10,True,Japanese,6,2
+68,Eta Sarraf,"88
+Kar Zila, Madurai-187600",+911506105179,dyalleela@example.org,2024-09-28,False,Chinese,6,3
+69,Charles Bhavsar,"63, Kar Street, Pimpri-Chinchwad 549438",+914360796658,rparmer@example.org,2024-08-05,False,Thai,10,4
+70,Manya Datta,"H.No. 785, Lalla Path
+Vasai-Virar-189030",2383225229,chauhannandini@example.org,2024-06-30,False,Indian,0,3
+71,Yoshita Borra,"53/918, Sami Road, Uluberia 732286",3820765097,wkrishnan@example.com,2024-12-10,True,French,11,4
+72,Jackson Sem,"H.No. 333, Pant Marg
+Sri Ganganagar-648067",+916305383349,gillkiaan@example.com,2024-06-13,False,Italian,11,3
+73,Ekani Mannan,"36/71
+Kade Road, Yamunanagar 128685",+914749497405,dewanbhavika@example.org,2024-06-18,False,Thai,1,2
+74,Bhanumati Gopal,"H.No. 16
+Oommen Street, Hosur 093332",+919782818853,bhavna02@example.org,2024-02-02,True,Italian,6,4
+75,Gagan Vaidya,"H.No. 077
+Ravel Nagar, Parbhani 538654",01955467229,vamakshi76@example.net,2024-10-03,False,Japanese,4,2
+76,Falan Iyengar,"H.No. 60
+Kalla Path
+Bidar-266824",4230385055,gaurikhurana@example.com,2024-02-18,False,Japanese,9,4
+77,Vasana Khatri,"99/27, Baral Chowk, Guntakal 562193",3353207738,anneabhimanyu@example.com,2024-02-15,True,Indian,11,4
+78,Shravya Chowdhury,"851
+Prabhu Path
+Miryalaguda 094065",00444070949,lgour@example.com,2024-06-17,True,Indian,5,4
+79,Kamya Om,"602
+Memon Road
+Bettiah 035936",+919683207754,vinaya81@example.net,2024-10-10,False,Indian,3,4
+80,Nilima Trivedi,"H.No. 520, Uppal Street, Indore-774328",+919488501631,hardik16@example.org,2024-06-20,False,Mexican,0,4
+81,Unnati Walla,"90, Grover Zila, Solapur-861356",7983985314,balakrishnanupkaar@example.net,2024-12-01,False,Indian,11,2
+82,Falak Anand,"H.No. 86, Magar Circle
+Jalandhar-392467",6167914440,adyamadan@example.net,2024-03-18,False,Indian,9,3
+83,Ekiya Mutti,"01, Thakkar
+Jhansi-503043",09443004303,jlanka@example.com,2024-07-17,False,Indian,10,3
+84,Turvi Luthra,"H.No. 69
+Menon Ganj, Junagadh-645688",2960037016,igolla@example.net,2024-08-04,True,French,9,5
+85,Gayathri Viswanathan,"35/40
+Deshpande Circle, Tirupati-633660",+918686980996,manya44@example.net,2024-09-13,True,Chinese,9,4
+86,Nathaniel Vig,"H.No. 32
+Bail Marg, Hindupur 225497",5880796735,dakshesh09@example.com,2024-11-20,True,American,6,1
+87,Sneha Som,"46/051
+Kothari Path
+Dewas 345138",02377232418,theodore56@example.org,2024-08-24,False,American,10,1
+88,Jagvi Sunder,"331, Hayre Road, Hosur 808630",+913007386180,yashicaoak@example.org,2024-07-10,True,Indian,11,1
+89,Lohit Sarraf,"81/230
+Prabhu Street
+Kochi 456182",07396195557,chavvi46@example.org,2024-06-20,True,American,4,2
+90,Chaitaly Vaidya,"75/496, Anand Marg, Ulhasnagar 340317",2167009023,asarma@example.net,2024-09-06,False,Italian,11,5
+91,Alexander Modi,"70/82
+Chowdhury Ganj, Durg 753753",0921610802,tripathikrisha@example.net,2023-12-26,False,French,7,4
+92,Nirja Kapoor,"953, Swamy Marg, Agartala-845081",+910162035604,karwidisha@example.net,2024-03-08,False,Thai,5,1
+93,Abha Sodhi,"H.No. 75
+Bhatnagar Ganj
+Moradabad-850359",3946723497,fmangat@example.net,2024-02-25,True,Italian,3,5
+94,Jairaj Kota,"004, Purohit Chowk
+Ajmer 814084",+913902440076,nandini47@example.net,2024-10-27,True,Indian,2,4
+95,Kai Subramaniam,"H.No. 74, Date
+Hapur-214567",9676035884,amaira34@example.com,2024-12-11,True,Japanese,3,2
+96,Finn Munshi,"726
+Som, Anantapuram 465972",01514050468,dayitaahuja@example.org,2024-09-29,True,Italian,3,4
+97,Saksham Kaul,"15
+Hans Ganj, Karawal Nagar-706258",+914149093290,sachdevchatura@example.org,2024-05-14,False,Italian,2,4
+98,Lipika Yohannan,"48/996
+Nair Chowk
+Nandyal-860850",+915018910585,omandal@example.org,2024-08-09,False,Japanese,6,1
+99,Girindra Bhargava,"38/54, Sharma Nagar
+Tirupati 578849",8199823789,ntank@example.com,2024-11-29,False,Italian,5,3
+100,Charvi Anne,"54/92
+Nadkarni Road
+Guntakal-791471",1572811780,dewanazaan@example.net,2024-08-31,True,Japanese,0,4
